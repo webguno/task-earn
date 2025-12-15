@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Task Complete & Earn",
+  "description": "A user-facing reward application where users can view available offers, view details, and track their completion. Features secure Supabase authentication and real-time click tracking.",
+  "requestFramePermissions": []
+}
